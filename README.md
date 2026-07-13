@@ -15,11 +15,10 @@ A modern, production-ready Retrieval-Augmented Generation (RAG) application that
 
 ## 📸 Screenshots
 
-<!-- PLACE IMAGE 1 HERE (Main Interface Overview) -->
-![App Interface - Dark Mode UI](assets/image1_interface.png)
+<img width="945" height="377" alt="image" src="https://github.com/user-attachments/assets/61cc062c-2715-4f37-a48e-c67f7c6d59fd" />
 
-<!-- PLACE IMAGE 2 HERE (Execution / Chat Example) -->
-![App Execution - Example Chat and Retrieval](assets/image2_execution.png)
+
+<img width="945" height="420" alt="image" src="https://github.com/user-attachments/assets/485ec03d-dbff-45a7-aced-474fe2e56946" />
 
 ## 🏗️ Architecture Stack
 * **Frontend**: Streamlit
