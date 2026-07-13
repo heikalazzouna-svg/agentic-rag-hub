@@ -2,8 +2,7 @@
 
 A modern, production-ready Retrieval-Augmented Generation (RAG) application that allows you to upload documents or paste URLs and chat with them in real-time. Built with a sleek dark-mode UI, it features intelligent routing, background job processing, and high-performance vector search.
 
-<!-- PLACE IMAGE 1 HERE (Main Interface Overview) -->
-![App Interface - Dark Mode UI](assets/image1_interface.png)
+
 
 ## ✨ Features
 * **Modern UI**: A beautiful, dark-themed Streamlit interface built for excellent user experience.
@@ -13,6 +12,11 @@ A modern, production-ready Retrieval-Augmented Generation (RAG) application that
 * **Background Processing**: Powered by [Inngest](https://www.inngest.com/) for reliable, asynchronous document chunking and embedding.
 * **Vector Storage**: Uses [Qdrant](https://qdrant.tech/) locally via Docker for blazing-fast semantic search.
 * **Persistent Memory**: Chat history is automatically saved to a local SQLite database so you never lose a conversation.
+
+## 📸 Screenshots
+
+<!-- PLACE IMAGE 1 HERE (Main Interface Overview) -->
+![App Interface - Dark Mode UI](assets/image1_interface.png)
 
 <!-- PLACE IMAGE 2 HERE (Execution / Chat Example) -->
 ![App Execution - Example Chat and Retrieval](assets/image2_execution.png)
